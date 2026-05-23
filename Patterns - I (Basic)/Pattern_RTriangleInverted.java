@@ -1,3 +1,13 @@
+//Inverted Star Pattern
+/*
+
+****
+***
+**
+*
+
+*/
+
 public class Pattern_RTriangleInverted {
     public static void main(String[] args) {
         for(int i=4;i>=1;i--){
