@@ -1,5 +1,12 @@
 // Half Pyramid Pattern
+/*
 
+1
+12
+123
+1234
+
+*/
 public class Pattern_HalfPyramid {
     public static void main(String[] args) {
         int n=4;
